@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          moving to docker-compose ..... again
+          Changing to AWS deployment
         </p>
         <a
           className="App-link"
